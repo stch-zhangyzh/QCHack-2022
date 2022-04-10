@@ -28,15 +28,11 @@ table = [[0] * 13] * 3
 #BULLET_HIT_SOUND = pygame.mixer.Sound('Assets/Grenade+1.mp3')
 #BULLET_FIRE_SOUND = pygame.mixer.Sound('Assets/Gun+Silencer.mp3')
 
-YELLOW_SPACESHIP_IMAGE = pygame.image.load(
-    os.path.join('utils/Assets', 'spaceship_yellow.png'))
-YELLOW_SPACESHIP = pygame.transform.rotate(pygame.transform.scale(
-    YELLOW_SPACESHIP_IMAGE, (SPACESHIP_WIDTH, SPACESHIP_HEIGHT)), 90)
+YELLOW_SPACESHIP = pygame.image.load(
+    os.path.join('utils/Assets', 'boss.jpg'))
 
-RED_SPACESHIP_IMAGE = pygame.image.load(
-    os.path.join('utils/Assets', 'spaceship_red.png'))
-RED_SPACESHIP = pygame.transform.rotate(pygame.transform.scale(
-    RED_SPACESHIP_IMAGE, (SPACESHIP_WIDTH, SPACESHIP_HEIGHT)), 270)
+RED_SPACESHIP = pygame.image.load(
+    os.path.join('utils/Assets', 'Ninja.jpg'))
 
 SPACE = pygame.transform.scale(pygame.image.load(
     os.path.join('utils/Assets', 'space.png')), (WIDTH, HEIGHT))

@@ -1,3 +1,11 @@
+### IBM Quantum Challenge
+
+Team: YiZhou Zhang, XinYu Pan
+
+mails: zhangyzh@shanghaitech.edu.cn, k435508582@qq.com
+
+# Sorry it is not finished. We are noob.
+
 ## IBM Quantum Challenge Overview
 
 ![logo image](wordmark-02.png)

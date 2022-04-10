@@ -1,3 +1,7 @@
+# time: 2022/4/10
+# author: YiZhou Zhang, XinYu Pan
+# mails: zhangyzh@shanghaitech.edu.cn, k435508582@qq.com
+
 import pygame
 import os
 
@@ -168,3 +172,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# reference: https://github.com/techwithtim/PygameForBeginners
+# author: techwithtim
